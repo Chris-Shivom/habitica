@@ -182,7 +182,7 @@
   }
 
   .purple {
-    color: #6133b4;
+    color: #17ce95;
   }
 
   p {
@@ -215,7 +215,7 @@
     margin-top: 1em;
     margin-bottom: 1em;
     border-radius: 4px;
-    background-color: #6133b4;
+    background-color: #17ce95;
     box-shadow: inset 0 -4px 0 0 rgba(52, 49, 58, 0.4);
     font-size: 20px;
     color: #fff;

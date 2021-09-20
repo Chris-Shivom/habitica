@@ -224,7 +224,7 @@
       box-shadow: none;
       border: none;
       text-align: center;
-      color: #4f2a93 !important;
+      color: #17ce95 !important;
 
       &.active {
         background: $purple-300;

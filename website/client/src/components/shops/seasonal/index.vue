@@ -269,7 +269,7 @@
     }
 
     .rogue {
-      color: #4f2a93;
+      color: #17ce95;
     }
 
     .warrior {

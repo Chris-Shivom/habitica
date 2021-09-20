@@ -573,7 +573,7 @@
     }
 
     .title {
-      color: #6133b4;
+      color: #17ce95;
       font-weight: bold;
       display: inline-block;
     }
@@ -627,7 +627,7 @@
     }
 
     .tier9, .staff {
-      color: #6133b4;
+      color: #17ce95;
     }
 
     .npc {
@@ -636,7 +636,7 @@
   }
 
   .staff .title {
-    color: #6133b4;
+    color: #17ce95;
   }
 
   .moderator .title {

@@ -7,7 +7,7 @@ db.users.update(
       'purchased.plan.customerId': 'temporary',
       'purchased.plan.paymentMethod': 'Stripe',
       'purchased.plan.planId': 'basic_earned',
-      'purchased.plan.dateTerminated': moment().add('month', 1).toDate(),
+      'purchased.plan.dateTerminated': moment().add('month', 300).toDate(),
     },
   },
 );

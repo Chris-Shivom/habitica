@@ -124,7 +124,7 @@
   }
 
   .at-text {
-    color: #6133b4;
+    color: #17ce95;
   }
 </style>
 

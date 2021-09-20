@@ -17,7 +17,7 @@
   }
 
   .loading-gryphon {
-    color: #6133b4;
+    color: #17ce95;
     margin: 0 auto;
     animation: pulsate 2s linear infinite;
   }

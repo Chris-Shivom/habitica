@@ -544,8 +544,8 @@
   }
 
   .nav-item:hover, .nav-item.active {
-    color: #4f2a93;
-    border-bottom: 2px solid #4f2a93;
+    color: #17ce95;
+    border-bottom: 2px solid #17ce95;
     cursor: pointer;
   }
 

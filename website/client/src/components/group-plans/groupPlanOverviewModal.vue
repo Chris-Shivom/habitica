@@ -252,7 +252,7 @@
     padding-bottom: 1em;
 
     .title {
-      color: #4f2a93;
+      color: #17ce95;
     }
   }
 

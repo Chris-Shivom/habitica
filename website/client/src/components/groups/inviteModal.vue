@@ -68,7 +68,7 @@
   }
   #invite-modal___BV_modal_header_ {
     .modal-title {
-      color: #4F2A93;
+      color: #17ce95;
       font-size: 24px;
     }
   }

@@ -283,8 +283,8 @@
   }
 
   .header {
-    background: #432874;
-    background: linear-gradient(180deg, #4F2A93 0%, #432874 100%);
+    background: #000E5E;
+    background: linear-gradient(180deg, #17ce95 0%, #000E5E 100%);
     color: #fff;
     padding: 2em;
     height: 340px;
@@ -315,7 +315,7 @@
     }
 
     h2 {
-      color: #6133b4;
+      color: #17ce95;
     }
   }
 
@@ -357,7 +357,7 @@
   }
 
   .purple-header {
-    color: #6133b4;
+    color: #17ce95;
     font-size: 48px;
     margin-top: 1em;
   }
@@ -399,7 +399,7 @@
     margin-bottom: 4em;
 
     .purple-box {
-      background-color: #4f2a93;
+      background-color: #17ce95;
       color: #fff;
       padding: .5em;
       border-radius: 8px;

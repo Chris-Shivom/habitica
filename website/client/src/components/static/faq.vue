@@ -59,7 +59,7 @@
 
   .faq-question a {
     text-decoration: none;
-    color: #4F2A93;
+    color: #17ce95;
   }
 
   @media only screen and (max-width: 768px) {

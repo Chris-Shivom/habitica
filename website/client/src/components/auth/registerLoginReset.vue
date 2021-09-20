@@ -431,7 +431,7 @@
   .form-wrapper {
     background-color: $purple-200;
     background: $purple-200; /* For browsers that do not support gradients */
-    background: linear-gradient(to bottom, #4f2a93, #6133b4); /* Standard syntax */
+    background: linear-gradient(to bottom, #17ce95, #17ce95); /* Standard syntax */
     min-height: 100vh;
   }
 
@@ -468,7 +468,7 @@
     }
 
     .gryphon {
-      background-image: url('~@/assets/images/melior@3x.png');
+      background-image: url('~@/assets/images/HLTH-LOGO.png');
       width: 63.2px;
       height: 69.4px;
       background-size: cover;
@@ -490,7 +490,7 @@
     input {
       margin-bottom: 2em;
       border-radius: 2px;
-      background-color: #432874;
+      background-color: #000E5E;
       border-color: transparent;
       height: 50px;
       color: $white;

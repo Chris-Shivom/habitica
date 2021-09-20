@@ -396,15 +396,15 @@
     }
 
     .purple-1 {
-      background-color: #6133b4;
+      background-color: #17ce95;
     }
 
     .purple-2 {
-      background-color: #432874;
+      background-color: #000E5E;
     }
 
     .purple-3 {
-      background-color: #36205d;
+      background-color: #000E5E;
     }
 
     .purple-4 {
@@ -429,11 +429,11 @@
     }
 
     .pixel-horizontal {
-      color: #6133b4;
+      color: #17ce95;
     }
 
     .pixel-horizontal-2 {
-      color: #432874;
+      color: #000E5E;
     }
 
     .pixel-horizontal-3 {
@@ -541,8 +541,8 @@
     input {
       margin-bottom: 1em;
       border-radius: 2px;
-      background-color: #432874;
-      border-color: #432874;
+      background-color: #000E5E;
+      border-color: #000E5E;
       color: $purple-400;
       border: solid 2px transparent;
       transition-timing-function: ease;
@@ -560,11 +560,11 @@
     input:focus {
       border: solid 2px #9a62ff;
       color: #fff;
-      background-color: #36205d;
+      background-color: #000E5E;
     }
 
     input:hover {
-      background-color: #36205d;
+      background-color: #000E5E;
     }
 
     .sign-up {

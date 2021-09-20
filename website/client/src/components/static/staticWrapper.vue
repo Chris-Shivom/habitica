@@ -33,7 +33,7 @@
   @import '~@/assets/scss/colors.scss';
 
   .home-header {
-    background: #6133b4 !important;
+    background: #000E5E !important;
     position: static;
     box-shadow: none !important;
     height: 100px !important;
@@ -46,7 +46,7 @@
 
     .nav-item a {
       font-size: 14px !important;
-      color: #d5c8ff !important;
+      color: #17ce95 !important;
       padding-top: 2.8em !important;
     }
 
@@ -63,11 +63,11 @@
       padding-right: 1em;
       margin-top: 1.8em !important;
       border-radius: 2px;
-      background-color: #9a62ff;
+      background-color: #17ce95;
     }
 
     .login-button:hover {
-      background-color: #5d3b9c;
+      background-color: #17ce95;
       box-shadow: 0 4px 4px 0 rgba(26, 24, 29, 0.16), 0 1px 8px 0 rgba(26, 24, 29, 0.12) !important;
     }
   }
@@ -102,7 +102,7 @@
     }
 
     .social-circle, .btn-contribute {
-      background: #36205d;
+      background: #000E5E;
       color: #bda8ff;
 
       .svg-icon {

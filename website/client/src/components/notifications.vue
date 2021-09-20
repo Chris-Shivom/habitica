@@ -75,7 +75,7 @@
 
   .introjs-button:hover, .introjs-button:active, .introjs-button:focus {
     background-image: none;
-    background-color: #4f2a93 !important;
+    background-color: #17ce95 !important;
     color: #fff;
   }
 
@@ -95,7 +95,7 @@
     margin: 0 auto;
     padding: .8em;
     border-radius: 2px;
-    background-color: #4f2a93 !important;
+    background-color: #17ce95 !important;
     box-shadow: 0 2px 2px 0 rgba(26, 24, 29, 0.16), 0 1px 4px 0 rgba(26, 24, 29, 0.12) !important;
   }
 
