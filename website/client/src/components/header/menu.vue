@@ -13,7 +13,7 @@
     >
       <b-navbar-brand
         class="brand"
-        aria-label="Habitica"
+        aria-label="HLTH Ambassador"
       >
         <div
           class="logo svg-icon d-none d-xl-block"
@@ -412,7 +412,7 @@ body.modal-open #habitica-menu {
     }
 
     .gryphon {
-      background-image: url('~@/assets/images/melior@3x.png');
+      background-image: url('~@/assets/images/HLTH-LOGO.png');
       width: 30px;
       height: 30px;
       background-size: cover;
@@ -487,8 +487,8 @@ body.modal-open #habitica-menu {
         }
 
         .topbar-dropdown-item {
-          background: #432874;
-          border-bottom: #6133b4 solid 1px;
+          background: #000E5E;
+          border-bottom: #17ce95 solid 1px;
         }
 
         .chevron {
@@ -517,11 +517,11 @@ body.modal-open #habitica-menu {
           position: relative;
 
           &.active {
-            background: #6133b4;
+            background: #17ce95;
           }
 
-          background: #4f2a93;
-          border-bottom: #6133b4 solid 1px;
+          background: #17ce95;
+          border-bottom: #17ce95 solid 1px;
         }
       }
     }
